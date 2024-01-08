@@ -1,5 +1,6 @@
 ##### Prerequisites
 # Update 1
+# Update 2
 - JDK 11 
 - Maven 3 
 - MySQL 8
